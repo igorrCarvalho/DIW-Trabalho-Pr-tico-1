@@ -4,7 +4,7 @@ const dados = {
     curso: "Engenharia de Software",
     turma: "Manhã",
     sobre:
-      "Estudante de Engenharia de Software apaixonado por desenvolvimento web. " +
+      "Estudante de Engenharia de Software. " +
       "Este projeto é uma plataforma de vídeos criada para a disciplina de " +
       "Desenvolvimento de Interfaces Web, com conteúdo montado dinamicamente a " +
       "partir de uma estrutura JSON e JavaScript.",
